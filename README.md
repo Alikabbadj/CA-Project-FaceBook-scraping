@@ -4,7 +4,7 @@ Readme_FaceBook_scraping
 
 3 codes:
 
-1.	FB friend final no loop.py gets all the friends of someone in Facebook (here julie.fievez) and puts them in a CSV file: name_of_FB_profil.csv (here julie.fievez.csv)
+1.	FB friend final no loop.py : gets all the friends of someone in Facebook (here julie.fievez) and puts them in a CSV file: name_of_FB_profil.csv (here julie.fievez.csv)
 
 2.	FB_Img_URL_extrac_AKA_loop.py : reads the 1st CSV file, gets URL the profile photo and adds them and puts them in a second CSV file: name_of_FB_profil2.csv (here julie.fievez2.csv)
 
